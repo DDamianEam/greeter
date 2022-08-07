@@ -1,4 +1,4 @@
 # Welcome
 
-Repository: repo02
-Initial version.
+Repository: greeter
+Maven used.
